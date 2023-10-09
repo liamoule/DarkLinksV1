@@ -1,15 +1,15 @@
-                         Devil Kamara
+Devil Kamara
 
-/___________________________INFOS__________________________\
+/INFOS
 DarkLinksV1 codé par Liamoule
 Note : Merci à Gam's pour ton aide pour les liens
 
-/______________________EXECUTER LE TOOL____________________\
+/EXECUTER LE TOOL
 Executez "RUN.bat" 
 Mettez le CMD en fullscreen
 entrez le numéro des les que vous voulez obtenir
 
-/___________________________LIENS__________________________\
+/LIENS
 Liamoule Github		~ https://github.com/liamoule/
 Gam's Github		~ https://github.com/GaetanSorbier/
 LSD4                 	~ https://t.me/+A17k80nu4wxmNjA0
