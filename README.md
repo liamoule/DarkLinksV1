@@ -7,7 +7,7 @@ Note : Merci à Gam's pour ton aide pour les liens.
 /EXECUTER LE TOOL
 Executez "RUN.bat". 
 Mettez le CMD en fullscreen.
-entrez le numéro des les que vous voulez obtenir.
+entrez le numéro des liens que vous voulez obtenir.
 
 /LIENS
 Liamoule Github		~ https://github.com/liamoule/
