@@ -6,7 +6,7 @@ DarkLinksV1 codé par Liamoule.
 
 Note : Merci à Gam's pour ton aide pour les liens.
 
-
+_____________________________________________________
 
 /EXECUTER LE TOOL
 
@@ -16,7 +16,7 @@ Mettez le CMD en fullscreen.
 
 entrez le numéro des liens que vous voulez obtenir.
 
-
+_____________________________________________________
 
 /LIENS
 
